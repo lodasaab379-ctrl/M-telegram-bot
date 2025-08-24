@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, ContextTypes, filters
 
 # === Apna Token yahan daalo ===
-TOKEN = "YOUR_BOT_TOKEN_HERE"
+TOKEN = "8208891679:AAE6j5aVkxE8SsAJyLnM_Uhy823qFSR7SoE"
 
 # === Example command ===
 async def start(update: Update, context: ContextTypes.DEFAULT_TYPE):
